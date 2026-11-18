@@ -1,0 +1,13 @@
+{
+  "name": "M5PaperPay",
+  "version": "1.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "M5-PaperPay-v1.0.0-full.bin", "offset": 0 }
+      ]
+    }
+  ]
+}

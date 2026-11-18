@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+*.bin
+!docs/flasher/*.bin
+*.elf
+*.map
+build/
+release/
+
+# local WiFi credentials - never commit
+include/wifi_secrets.h
